@@ -1,16 +1,11 @@
 # LieGeometricTrainability
 
-<p align="center">
-  <img src="lie_geometric_framework.png" width="88%">
-</p>
 
 <p align="center">
-  <em>
-  Lie-geometric framework connecting representation scaling, unitary orbit geometry, and gradient concentration in quantum neural networks.
-  </em>
+<em>Lie-geometric framework connecting representation scaling, unitary orbit geometry, and gradient concentration in quantum neural networks.</em>
 </p>
-
 ---
+<img width="4825" height="2887" alt="frameworks" src="https://github.com/user-attachments/assets/1ca3a74a-b02d-4dd1-b776-89fcdfe93e7a" />
 
 ## Overview
 
@@ -269,8 +264,8 @@ If you use this repository, please cite:
 ```bibtex
 @article{LieGeometricTrainability2026,
   title={Lie-Geometric Trainability of Quantum Dynamical Systems: Avoiding Barren Plateaus via Low-Dimensional Lie Subalgebras},
-  author={Your Name},
-  journal={Physics Scripta},
+  author={Haijian Shao, Yujie Wu, Xing Deng, Yingtao Jiang},
+  journal={Physics Scripta, PHYSSCR-152114},
   year={2026}
 }
 ```
