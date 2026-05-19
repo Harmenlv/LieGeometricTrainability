@@ -267,6 +267,8 @@ If you use this repository, please cite:
 
 ---
 
+Author: Haijian Shao et al. Google Scholar: https://scholar.google.com/citations?user=d3mvChQAAAAJ&hl=en
+---
 # License
 
 This project is released under the MIT License.
