@@ -252,7 +252,7 @@ If you use this repository, please cite:
 @article{LieGeometricTrainability2026,
   title={Lie-Geometric Trainability of Quantum Dynamical Systems: Avoiding Barren Plateaus via Low-Dimensional Lie Subalgebras},
   author={Haijian Shao, Yujie Wu, Xing Deng, Yingtao Jiang},
-  journal={Physics Scripta, PHYSSCR-152114},
+  journal={Under Review},
   year={2026}
 }
 ```
