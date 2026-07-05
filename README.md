@@ -249,11 +249,16 @@ Potential extensions include:
 If you use this repository, please cite:
 
 ```bibtex
-@article{LieGeometricTrainability2026,
-  title={Lie-Geometric Trainability of Quantum Dynamical Systems: Avoiding Barren Plateaus via Low-Dimensional Lie Subalgebras},
-  author={Haijian Shao, Yujie Wu, Xing Deng, Yingtao Jiang},
-  journal={Under Review},
-  year={2026}
+@article{shao2026lie,
+  title={Lie-geometric trainability of quantum dynamical systems: Avoiding barren plateaus via low-dimensional Lie subalgebras},
+  author={Shao, Haijian and Wu, Yujie and Deng, Xing and Jiang, Yingtao},
+  journal={Physica Scripta},
+  volume={101},
+  number={25},
+  pages={255107-01--255107-20},
+  year={2026},
+  doi={10.1088/1402-4896/ae7d6d},
+  publisher={IOP Publishing}
 }
 ```
 
